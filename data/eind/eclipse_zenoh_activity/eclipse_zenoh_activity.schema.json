@@ -1,0 +1,1 @@
+[{"name":"pr_id","evidenceType":"number","typeFidelity":"precise"},{"name":"activity_category","evidenceType":"string","typeFidelity":"precise"},{"name":"confidence","evidenceType":"number","typeFidelity":"precise"},{"name":"level","evidenceType":"number","typeFidelity":"precise"},{"name":"created_at","evidenceType":"date","typeFidelity":"precise"}]

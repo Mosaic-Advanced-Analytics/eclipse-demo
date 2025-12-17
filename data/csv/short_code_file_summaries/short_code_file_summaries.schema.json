@@ -1,0 +1,1 @@
+[{"name":"code_id","evidenceType":"number","typeFidelity":"precise"},{"name":"owner","evidenceType":"string","typeFidelity":"precise"},{"name":"repository","evidenceType":"string","typeFidelity":"precise"},{"name":"file","evidenceType":"string","typeFidelity":"precise"},{"name":"short_summary","evidenceType":"string","typeFidelity":"precise"}]

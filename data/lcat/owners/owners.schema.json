@@ -1,0 +1,1 @@
+[{"name":"owner","evidenceType":"string","typeFidelity":"precise"},{"name":"description","evidenceType":"string","typeFidelity":"precise"},{"name":"recent_commit_activity","evidenceType":"number","typeFidelity":"precise"}]

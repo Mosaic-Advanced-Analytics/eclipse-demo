@@ -1,0 +1,1 @@
+[{"name":"burndown_id","evidenceType":"number","typeFidelity":"precise"},{"name":"week","evidenceType":"date","typeFidelity":"precise"},{"name":"prediction","evidenceType":"number","typeFidelity":"precise"},{"name":"low","evidenceType":"number","typeFidelity":"precise"},{"name":"high","evidenceType":"number","typeFidelity":"precise"}]

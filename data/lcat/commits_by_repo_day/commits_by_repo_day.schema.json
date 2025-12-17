@@ -1,0 +1,1 @@
+[{"name":"owner","evidenceType":"string","typeFidelity":"precise"},{"name":"repository","evidenceType":"string","typeFidelity":"precise"},{"name":"day","evidenceType":"date","typeFidelity":"precise"},{"name":"count","evidenceType":"number","typeFidelity":"precise"}]

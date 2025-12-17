@@ -1,0 +1,1 @@
+[{"name":"year","evidenceType":"number","typeFidelity":"precise"},{"name":"milestone_id","evidenceType":"string","typeFidelity":"precise"},{"name":"milestone_number","evidenceType":"number","typeFidelity":"precise"},{"name":"milestone_date","evidenceType":"date","typeFidelity":"precise"},{"name":"milestone_description","evidenceType":"string","typeFidelity":"precise"}]
